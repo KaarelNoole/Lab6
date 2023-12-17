@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="register">User registration</string>
+    <string name="log_out">Log out</string>
+    <string name="thk_logo_description">Tallinn Tööstushariduskeskus logo</string>
+    <string name="enter_username">Enter username</string>
+    <string name="user_name">example@gmail.com</string>
+    <string name="enter_password">Enter password</string>
+    <string name="ex_password">qwerty123</string>
+    <string name="login">login</string>
+    <string name="nur">new user registration</string>
+    <string name="first_name">Enter first name</string>
+    <string name="ex_firstName">John</string>
+    <string name="enter_lastname">Enter last name</string>
+    <string name="ex_lastName">Smith</string>
+    <string name="lab6">lab6 APP</string>
+    <string name="field_err">Missing field entries!</string>
+    <string name="us_reg">User registration</string>
+    <string name="max_pass">Password must be at least 6 characters long!</string>
+    <string name="noMatch">Passwords don\'t match!</string>
+    <string name="us_info">User details</string>
+    <string name="thk_logo">Tallinn Tööstushariduskeskus logo</string>
+    <string name="error">Error! %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
